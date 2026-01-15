@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=ArduinoUnoShield Member=POWER2
+Change Component Designator: OldDesignator=POWER2 NewDesignator=POWER
+Change Component Designator: OldDesignator=RED LED? NewDesignator=RED LED
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? Cap
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component POWER POWER_UNO
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component U? L7805CV-DG

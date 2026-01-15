@@ -1,0 +1,34 @@
+Change Component Designator: OldDesignator=MOTOR? NewDesignator=MOTOR1
+Change Component Designator: OldDesignator=MOTOR? NewDesignator=MOTOR2
+Change Component Designator: OldDesignator=POWER? NewDesignator=POWER2
+Add Component: Footprint Not Found DIP880W50P254L2000H510Q16
+Add Component: Footprint Not Found TO255P1040X460X1968-3
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-9
+Add Pin To Net: Unknown Pin: Pin U?-10
+Add Pin To Net: Unknown Pin: Pin U?-12
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-15
+Add Pin To Net: Unknown Pin: Pin U?-16
+Added Pin To Net: NetName=NetMOTOR1_1 Pin=MOTOR1-1
+Added Net: Name=NetMOTOR1_1
+Added Pin To Net: NetName=NetMOTOR1_2 Pin=MOTOR1-2
+Added Net: Name=NetMOTOR1_2
+Added Pin To Net: NetName=NetMOTOR2_1 Pin=MOTOR2-1
+Added Net: Name=NetMOTOR2_1
+Added Pin To Net: NetName=NetMOTOR2_2 Pin=MOTOR2-2
+Added Net: Name=NetMOTOR2_2
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C?
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component MOTOR1 691216710002
+Add Class Member: Failed to add class member : Component U? L293D
+Add Class Member: Failed to add class member : Component U? L7805CV

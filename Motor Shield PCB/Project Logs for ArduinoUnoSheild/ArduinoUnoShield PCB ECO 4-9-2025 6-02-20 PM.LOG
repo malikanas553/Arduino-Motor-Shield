@@ -1,0 +1,99 @@
+Change component parameters: Designator = "AD" ("AD"); Footprint = "Header 6x1 8.5mm"; UniqueID = "\MRDMLAAM" ("\MRDMLAAM")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2699089"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1198-06-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "2699088"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = "2699075"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ICSP" ("ICSP"); Footprint = "ICSP"; UniqueID = "\OOKHNFPF" ("\OOKHNFPF")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 5"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2699117"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "2699116"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "SAM1185-06-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = "2699091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 5"; Value = "SAM1196-06-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IOH" ("IOH"); Footprint = "Header 10x1 8.5mm"; UniqueID = "\YUIEELQM" ("\YUIEELQM")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2698803S4475693N1004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1198-10-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "2698789"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IOL" ("IOL"); Footprint = "Header 8x1 8.5mm"; UniqueID = "\MFAMOVPP" ("\MFAMOVPP")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM1198-08-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "2698939"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "2698940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = "2698925"; VariantName = "[No Variations]"
+Change component parameters: Designator = "POWER" ("POWER"); Footprint = "Header 8x1 8.5mm"; UniqueID = "\XQKUSQIT" ("\XQKUSQIT")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM1198-08-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "2698939"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "2698940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = "2698925"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR?(691216710002)
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "94172716"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR?(691216710002)
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "94172716"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=POWER?(691216710002)
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "94172716"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=POWER?-1
+Added Pin To Net: NetName=GND Pin=POWER?-2
+Added Pin To Net: NetName=NetMOTOR?_1 Pin=MOTOR?-1
+Added Net: Name=NetMOTOR?_1
+Add Net: Net with name "NetMOTOR?_1" already exists
+Added Pin To Net: NetName=NetMOTOR?_2 Pin=MOTOR?-2
+Added Net: Name=NetMOTOR?_2
+Add Net: Net with name "NetMOTOR?_2" already exists
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component MOTOR? 691216710002
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component MOTOR? 691216710002
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component POWER? 691216710002
+Added Rule: Name=Schematic Supply Nets

@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=VIN Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=NetC2_1 Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=IO2 Pin=U?-2
+Removed Pin From Net: NetName=NetMOTOR1_1 Pin=U?-3
+Removed Member From Class: ClassName=ArduinoUnoShield Member=C3
+Removed Member From Class: ClassName=ArduinoUnoShield Member=C4
+Added Component: Designator=C?(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=U?(STM-L293D-16)
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output / Channel"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Peak Output"; Value = "1.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000059.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "HalfBridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "PMIC-MOSFET,BridgeDrivers-InternalSwitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-State Resistance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C~150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-2936-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "L293DViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-DIP(0.300",7.62mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "16-Pin Thru-Hole Dual-In-Line, Body 20 x 6.85 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DIP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "L293D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "16-PowerDIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "HalfBridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "4.5V~36V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=C?-1
+Added Pin To Net: NetName=VIN Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC2_1 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=IO2 Pin=U?-2
+Added Pin To Net: NetName=NetC2_1 Pin=U?-3
+Added Pin To Net: NetName=NetMOTOR1_1 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=NetMOTOR1_2 Pin=U?-6
+Added Pin To Net: NetName=IO3 Pin=U?-7
+Added Pin To Net: NetName=VIN Pin=U?-8
+Added Pin To Net: NetName=NetC2_1 Pin=U?-9
+Added Pin To Net: NetName=IO4 Pin=U?-10
+Added Pin To Net: NetName=NetMOTOR2_1 Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=NetMOTOR2_2 Pin=U?-14
+Added Pin To Net: NetName=IO5 Pin=U?-15
+Added Pin To Net: NetName=NetC2_1 Pin=U?-16
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? Cap
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component C? Cap
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component U? L7805CV-DG

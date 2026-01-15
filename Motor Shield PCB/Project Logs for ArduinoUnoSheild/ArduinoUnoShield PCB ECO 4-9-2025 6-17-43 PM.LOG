@@ -1,0 +1,29 @@
+Add Component: Footprint Not Found DIP880W50P254L2000H510Q16
+Added Component: Designator=U?(TO255P1040X460X2890-3)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/L7805CV-DG/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L7805CV-DG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L7805CV-DG/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=U?-1
+Added Pin To Net: NetName=VIN Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=IO2 Pin=U?-2
+Added Pin To Net: NetName=NetC2_1 Pin=U?-3
+Added Pin To Net: NetName=NetMOTOR1_1 Pin=U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-7
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Pin To Net: Unknown Pin: Pin U?-9
+Add Pin To Net: Unknown Pin: Pin U?-10
+Add Pin To Net: Unknown Pin: Pin U?-11
+Add Pin To Net: Unknown Pin: Pin U?-12
+Add Pin To Net: Unknown Pin: Pin U?-13
+Add Pin To Net: Unknown Pin: Pin U?-14
+Add Pin To Net: Unknown Pin: Pin U?-15
+Add Pin To Net: Unknown Pin: Pin U?-16
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component U? L293D
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component U? L7805CV-DG
